@@ -1,0 +1,8 @@
+<p>Aquí tienes la lista de ventas:</p>
+<ul>
+    @for (sale of allSales; track sale) {
+    <li>{{sale.id}} - {{ sale.name }}</li>
+    } @empty {
+    <span>Empty list of allSales</span>
+    }
+</ul>
