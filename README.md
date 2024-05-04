@@ -77,6 +77,7 @@ ng serve
 La aplicación estará disponible en [http://localhost:4200](http://localhost:4200).
 
 ## Creación del primer módulo
+#### Dentro del contenedor de Odoo ejecuta el siguiente comando:
 ```bash
 /bin/odoo scaffold nombre-modulo /mnt/extra-addons/
 ```
