@@ -76,4 +76,9 @@ ng serve
 
 La aplicación estará disponible en [http://localhost:4200](http://localhost:4200).
 
+## Creación del primer módulo
+```bash
+/bin/odoo scaffold nombre-modulo /mnt/extra-addons/
+```
+
 ¡Disfruta desarrollando tu aplicación web con Angular, Node.js, Odoo y PostgreSQL en un entorno Dockerizado y bien estructurado!
