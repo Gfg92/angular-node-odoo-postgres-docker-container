@@ -81,5 +81,6 @@ La aplicación estará disponible en [http://localhost:4200](http://localhost:42
 ```bash
 /bin/odoo scaffold nombre-modulo /mnt/extra-addons/
 ```
+##### La lista de módulos se encuentran en: /usr/lib/python3/dist-packages/odoo/addons
 
 ¡Disfruta desarrollando tu aplicación web con Angular, Node.js, Odoo y PostgreSQL en un entorno Dockerizado y bien estructurado!
